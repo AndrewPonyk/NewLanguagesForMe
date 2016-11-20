@@ -1,0 +1,3 @@
+name <- "Andrii";
+print(name)
+
